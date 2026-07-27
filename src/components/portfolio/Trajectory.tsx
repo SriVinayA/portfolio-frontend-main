@@ -24,7 +24,7 @@ export function Trajectory() {
           </h2>
           <div className="flex items-center gap-6">
             <span className="font-serif italic text-zinc-400 text-sm hidden sm:inline">
-              Five companies. One craft.
+              Four companies. One craft.
             </span>
             <div className="hidden sm:flex items-center gap-2">
               <button 

@@ -26,8 +26,9 @@ export function Hero({ onOpenChat }: { onOpenChat: () => void }) {
       <div className="max-w-[58ch]">
         <p className="font-serif text-lg sm:text-xl text-zinc-600 dark:text-zinc-400 leading-relaxed text-pretty mb-10 animate-in fade-in slide-in-from-bottom-4 duration-700 delay-[300ms] fill-mode-backwards">
           I am a{" "}
-          {profile.title} with 7+ years of experience architecting enterprise Java systems, plus
-          deep work in <em>Python</em> and <em>C++</em> systems programming, alongside LLM orchestration.
+          {profile.title} with 5+ years of experience designing enterprise-grade{" "}
+          <em>Spring Boot</em> microservices and REST APIs across insurance, financial services,
+          and healthcare — with the <em>React</em> dashboards to go with them.
         </p>
         <div className="flex flex-wrap items-center gap-3 animate-in fade-in slide-in-from-bottom-4 duration-700 delay-[450ms] fill-mode-backwards">
           <button
