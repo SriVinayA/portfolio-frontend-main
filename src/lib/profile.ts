@@ -10,7 +10,7 @@ export const profile = {
   github: "https://github.com/SriVinayA",
   linkedin: "https://www.linkedin.com/in/SriVinayA",
   quote:
-    "Building backends that are secure, scalable, and reliable — from Spring Boot microservices and well-modeled data layers to tuned SQL, thorough tests, and containerized deployments on AWS.",
+    "Building backends that are secure, scalable, and reliable from Spring Boot microservices and well-modeled data layers to tuned SQL, thorough tests, and containerized deployments on AWS.",
 };
 
 export const experience = [
@@ -32,7 +32,7 @@ export const experience = [
       "Apache Tomcat",
     ],
     highlights: [
-      "Engineered scalable backend microservices in Java and Spring Boot for end-to-end claim lifecycle workflows — claim validation, business rule processing, and status management.",
+      "Engineered scalable backend microservices in Java and Spring Boot for end-to-end claim lifecycle workflows claim validation, business rule processing, and status management.",
       "Designed RESTful APIs with strict request/response modeling and robust error handling for reliable client-server interactions.",
       "Secured every endpoint with JWT-based authentication and role-based access control (RBAC).",
       "Modeled complex claims and user entities with Spring Data JPA and PostgreSQL, cutting query execution times through refined repository layers and indexing strategies.",
@@ -189,10 +189,10 @@ import portfolioCover from "@/assets/portfolio-cover.jpg";
 export const projects = [
   {
     name: "Portfolio Backend",
-    tagline: "This site — with a Spring AI + Gemini chatbot.",
+    tagline: "This site with a Spring AI + Gemini chatbot.",
     date: "2024",
     description:
-      "A modern, interactive personal portfolio built with React, TypeScript, Tailwind CSS, shadcn/ui, TanStack Router/Start, and Vite. The AI chatbot is powered by a Spring Boot backend using Spring AI integrated with Google's Gemini 3.1 API — try Cmd+K to ask it anything about my background.",
+      "A modern, interactive personal portfolio built with React, TypeScript, Tailwind CSS, shadcn/ui, TanStack Router/Start, and Vite. The AI chatbot is powered by a Spring Boot backend using Spring AI integrated with Google's Gemini 3.1 API try Cmd+K to ask it anything about my background.",
     stack: ["React", "TypeScript", "Tailwind", "shadcn/ui", "TanStack Router/Start", "Vite", "Spring Boot", "Spring AI", "Google Gemini API"],
     link: "https://github.com/SriVinayA/portfolio",
     cover: portfolioCover,

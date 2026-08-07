@@ -28,7 +28,7 @@ export function Hero({ onOpenChat }: { onOpenChat: () => void }) {
           I am a{" "}
           {profile.title} with 5+ years of experience designing enterprise-grade{" "}
           <em>Spring Boot</em> microservices and REST APIs across insurance, financial services,
-          and healthcare — with the <em>React</em> dashboards to go with them.
+          and healthcare with the <em>React</em> dashboards to go with them.
         </p>
         <div className="flex flex-wrap items-center gap-3 animate-in fade-in slide-in-from-bottom-4 duration-700 delay-[450ms] fill-mode-backwards">
           <button
