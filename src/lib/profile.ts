@@ -1,9 +1,9 @@
 export const profile = {
   name: "Sri Vinay Appari",
-  title: "Software Developer",
+  title: "Software Engineer",
   tagline: "Hi, Vinay here. Ask my AI anything about my experience.",
   summary:
-    "Sri Vinay Appari is a Software Developer with 5+ years of experience designing, developing, and deploying enterprise-grade applications using Java, Spring Boot, React, microservices, and RESTful web services across the insurance, financial services, and healthcare domains.",
+    "Sri Vinay Appari is a Software Engineer with 5+ years of experience designing, developing, and deploying enterprise-grade applications using Java, Spring Boot, React, microservices, and RESTful web services across the insurance, financial services, and healthcare domains.",
   location: "United States",
   email: "srivinay.appari@gmail.com",
   phone: "(669) 288-1604",
