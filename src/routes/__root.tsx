@@ -68,9 +68,9 @@ function ErrorComponent({ error, reset }: { error: Error; reset: () => void }) {
   );
 }
 
-const SITE_TITLE = "Sri Vinay Appari — Senior Java Backend Developer";
+const SITE_TITLE = "Sri Vinay Appari — Software Engineer";
 const SITE_DESCRIPTION =
-  "I am a Senior Java Backend Developer with 5+ years building enterprise Spring Boot microservices and REST APIs across insurance, financial services, and healthcare. Ask the AI anything about my background.";
+  "I am a Software Engineer with 5+ years building enterprise Spring Boot microservices and REST APIs across insurance, financial services, and healthcare. Ask the AI anything about my background.";
 
 export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()({
   head: () => ({
